@@ -1,6 +1,6 @@
-#### Name: Rakesh V
+#### Name: SHARON STEFFANI.F
 
-#### Reg.No: 212222110036
+#### Reg.No: 2122223110049
 # Experiment 3: Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
